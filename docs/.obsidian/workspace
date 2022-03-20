@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "85b2aa38215dcdaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "d43706917b382077",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a55e4764626166e",
+    "type": "split",
+    "children": [
+      {
+        "id": "46d01c53b7356af9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17e7fd46cfe830e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "04a8b8d15eb7423a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d5e737f231a8389c",
+    "type": "split",
+    "children": [
+      {
+        "id": "24aa2d92779713be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbdd06f33fc06fce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d43706917b382077",
+  "lastOpenFiles": [
+    "index.md",
+    "notes/sensor.md",
+    "notes/light.md",
+    "papers/sensor.md",
+    "papers/image_quality_assement.md",
+    "notes/ISP.md"
+  ]
+}
