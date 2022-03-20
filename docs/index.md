@@ -4,4 +4,4 @@ started 2022 Mar 20
 
 
 notes
-personal CV
+personal CV[[personal CV]]
