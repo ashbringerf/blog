@@ -1,7 +1,7 @@
-# bulldong's backyard
+# main page
 
-started 2022 Mar 20
+### obsidian syntax 
+https://help.obsidian.md/How+to/Format+your+notes
 
 
-notes
-personal CV[[personal CV]]
+##### 2022.05.14

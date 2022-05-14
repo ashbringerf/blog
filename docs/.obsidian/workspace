@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "link/knowledge_graph.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "link/knowledge_graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +89,15 @@
   },
   "active": "d43706917b382077",
   "lastOpenFiles": [
-    "index.md",
-    "personal CV.md",
+    "link/knowledge_graph.md",
+    "contents/AppleProRaw.md",
+    "CV.md",
+    "notes/daliy_notes/2022_May.md",
     "notes/sensor.md",
     "notes/light.md",
-    "papers/sensor.md",
-    "papers/image_quality_assement.md",
-    "notes/ISP.md"
+    "index.md",
+    "papers/Image_Quality_Assessment.md",
+    "papers/HDR.md",
+    "papers/DNN.md"
   ]
 }
