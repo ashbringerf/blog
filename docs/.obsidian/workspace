@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "link/knowledge_graph.md",
+            "file": "contents/AppleProRaw.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "link/knowledge_graph.md",
+                "file": "contents/AppleProRaw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "d43706917b382077",
   "lastOpenFiles": [
-    "link/knowledge_graph.md",
     "contents/AppleProRaw.md",
+    "obsidian_syntax.md",
+    "index.md",
+    "link/knowledge_graph.md",
     "CV.md",
     "notes/daliy_notes/2022_May.md",
     "notes/sensor.md",
     "notes/light.md",
-    "index.md",
     "papers/Image_Quality_Assessment.md",
-    "papers/HDR.md",
-    "papers/DNN.md"
+    "papers/HDR.md"
   ]
 }
