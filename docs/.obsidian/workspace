@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "link/projects.md",
+            "file": "contents/Digital_Image_Processing/filtering.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "link/projects.md",
+                "file": "contents/Digital_Image_Processing/filtering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,20 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "d43706917b382077",
   "lastOpenFiles": [
-    "link/projects.md",
-    "contents/Computer_Science/Languages/Python/syntax.md",
-    "link/papers.md",
-    "link/researchers.md",
-    "link/knowledge_graph.md",
+    "contents/Digital_Image_Processing/filtering.md",
+    "CV.md",
     "contents/Physic_Subjects/Light.md",
-    "contents/Physic_Subjects/Lens.md",
     "contents/Physic_Subjects/Sensor.md",
-    "contents/Computer_Vision/Camera_Model.md",
-    "contents/Computer_Vision/Ceypoints.md"
+    "notes/daliy_notes/2022_May.md",
+    "link/papers.md",
+    "link/knowledge_graph.md",
+    "contents/Physic_Subjects/illumination photometry.md",
+    "contents/Human_Visual_System/VIsual_Saliency.md",
+    "link/projects.md"
   ]
 }
