@@ -1,4 +1,22 @@
-##### bilateral filter
+## bilateral filter
+
+### 文章
+@inproceedings{2002Bilateral,
+  title={Bilateral filtering for gray and color images},
+  author={ Tomasi, C.  and  Manduchi, R. },
+  booktitle={International Conference on Computer Vision},
+  year={2002},
+}
+- Fast O(1) bilateral ﬁltering using trigonometric range kernels
+- 
+
+### 核心公式
+$I(x,y)'=G_s(I(x,y))*G_i(I(x,y))$
+$pixel_{sum} = \sum_{p\in block}I(x,y)*weight(x,y)$
+$weight_{sum} = \sum_{p\in block}G_i(I(x,y)-I(x',y')) * G_s(\sqrt{(x'-x)^2+(y'-y)^2})$
+
+### 实现
+````
 import cv2
 import numpy as np
 from tqdm import tqdm
@@ -35,9 +53,12 @@ def bilateral_filter(image, diameter, sigma_i, sigma_s):
                     filtered_image = (filtered_image) + (image[int(n_x)][int(n_y)] * wp)
                     wp_total = wp_total + wp
             filtered_image = filtered_image // wp_total
-            new_image[row][col] = int(np.round(filtered_image))
+            new_image[row, col] = int(np.round(filtered_image))
     return new_image
 
+````
+
+```
 """ speed up """
 """ 1 window gaissian LUT """
 """ 2 intensity gaussian LUT """
@@ -64,8 +85,10 @@ def bilateral_filter_lut(image, diameter, gs_lut, gi_lut):
             #    print('pixel old ', image[row, col], 'pixel new ', pixel)
             new_image[row, col] = int(np.round(pixel))
     return new_image
+```
 
 
+```
 """ joint bilateral filter """
 
 
@@ -97,3 +120,4 @@ is no big effect on the image after changing only the sigma s. Sharpness does no
 much with sigma s rather than sigma i. To have a more blurred image, we should take sigma values
 bigger.
 """
+```

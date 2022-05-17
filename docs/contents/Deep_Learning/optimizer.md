@@ -1,0 +1,3 @@
+- sgd;
+- adam;
+- momentum;

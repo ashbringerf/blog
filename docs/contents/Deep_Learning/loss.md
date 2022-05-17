@@ -1,0 +1,2 @@
+- focal loss
+- VGG loss
