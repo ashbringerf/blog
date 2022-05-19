@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "contents/Digital_Image_Processing/filtering/bilateral_filter.md",
+            "file": "contents/Machine_Learning/classifers/Support Vector Machine.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contents/Digital_Image_Processing/filtering/bilateral_filter.md",
+                "file": "contents/Machine_Learning/classifers/Support Vector Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "00ffbe1ba6989f78",
   "lastOpenFiles": [
+    "contents/Machine_Learning/classifers/Support Vector Machine.md",
+    "contents/Machine_Learning/Classfication.md",
+    "contents/Computer_Science/Languages/比较器.md",
+    "contents/Computer_Science/Languages/Cpp/可变入参.md",
+    "Pasted image 20220519231416.png",
+    "contents/Computer_Science/Languages/Cpp/强制类型转换.md",
     "contents/Digital_Image_Processing/filtering/bilateral_filter.md",
     "contents/Deep_Learning/datasets.md",
     "contents/Deep_Learning/norms.md",
-    "contents/Deep_Learning/net.md",
-    "contents/Deep_Learning/optimizer.md",
-    "notes/daliy_notes/2022_May.md",
-    "contents/Deep_Learning/loss.md",
-    "link/knowledge_graph.md",
-    "obsidian_syntax.md",
-    "contents/Digital_Image_Processing/filtering/filtering.md"
+    "contents/Deep_Learning/net.md"
   ]
 }
