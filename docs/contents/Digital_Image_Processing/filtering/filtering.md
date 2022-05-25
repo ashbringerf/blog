@@ -9,6 +9,6 @@
 	- median
 	- trilateral
 -  optimization
-	- weiner
+	- wiener
 	- BM3D
 	- TV, L1 and L0

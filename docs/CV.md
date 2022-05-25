@@ -1,4 +1,4 @@
-Mark,  YoB: 1989
+MarkFeng,  YoB: 1989
 ------------------- ----------------------------
 email: ashbringerft@gmail.com                                                                         
 tele: +86 18510101100
@@ -43,13 +43,9 @@ beijing university of technology -Eletrical Information Engineering
 
 patents
 - 
-- 
 --------------------
 Thesis and paper
 - 
-- 
-- 
-- 
-- 
+
 
 ----------------------------------------
