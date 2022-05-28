@@ -3,8 +3,6 @@ site_name: notebook
 theme:
     name: 'material'
     palette:
-    features:
-      - navigation.instant
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
@@ -23,6 +21,9 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+
+    features:
+      - navigation.instant
 
 # Extensions
 markdown_extensions:
