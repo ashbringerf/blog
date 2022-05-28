@@ -1,0 +1,1 @@
+- switchable-normalization: 自动可微的w1*BatchNorm+w2*InstanceNorm+w3*LayerNorm
