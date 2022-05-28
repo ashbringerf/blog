@@ -89,14 +89,14 @@
   "active": "00ffbe1ba6989f78",
   "lastOpenFiles": [
     "contents/Digital_Image_Processing/filtering/bilateral_filter.md",
-    "contents/Digital_Image_Processing/filtering/wiener_filter.md",
-    "contents/Deep_Learning/norms.md",
     "contents/Digital_Image_Processing/Color_Space.md",
+    "contents/interesting/AppleProRaw.md",
+    "CV.md",
+    "contents/Digital_Image_Processing/filtering/wiener_filter.md",
+    "contents/Digital_Image_Processing/filtering/filtering.md",
+    "contents/Deep_Learning/norms.md",
     "contents/Computer_Vision/Calibration.md",
     "contents/Computer_Science/Operation_System/比较器.md",
-    "contents/Computer_Vision/Camera_Model.md",
-    "contents/interesting/AppleProRaw.md",
-    "contents/Digital_Image_Processing/filtering/filtering.md",
-    "contents/Deep_Learning/loss.md"
+    "contents/Computer_Vision/Camera_Model.md"
   ]
 }
