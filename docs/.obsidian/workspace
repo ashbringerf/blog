@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "contents/Deep_Learning/norms.md",
+            "file": "contents/interesting/AppleProRaw.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contents/Deep_Learning/norms.md",
+                "file": "contents/interesting/AppleProRaw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "00ffbe1ba6989f78",
   "lastOpenFiles": [
+    "contents/interesting/AppleProRaw.md",
+    "contents/Digital_Image_Processing/filtering/bilateral_filter.md",
+    "contents/Digital_Image_Processing/filtering/filtering.md",
     "contents/Deep_Learning/norms.md",
     "contents/Deep_Learning/loss.md",
     "link/cheatsheets.md",
     "CV.md",
     "index.md",
-    "contents/interesting/AppleProRaw.md",
     "contents/Physic_Subjects/Light.md",
-    "contents/Deep_Learning/platforms/pytorch.md",
-    "notes/daliy_notes/2022_May.md",
-    "link/reading.md"
+    "contents/Deep_Learning/platforms/pytorch.md"
   ]
 }
