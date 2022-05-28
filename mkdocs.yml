@@ -5,6 +5,7 @@ theme:
     palette:
     features:
       - navigation.instant
+
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
