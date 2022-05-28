@@ -14,6 +14,7 @@
 $$
 I(x,y)'=G_s(I(x,y))*G_i(I(x,y))
 $$
+\\(A+B\\)
 $I(x,y)'=G_s(I(x,y))*G_i(I(x,y))$
 $pixel_{sum} = \sum_{p\in block}I(x,y)*weight(x,y)$
 $weight_{sum} = \sum_{p\in block}G_i(I(x,y)-I(x',y')) * G_s(\sqrt{(x'-x)^2+(y'-y)^2})$
