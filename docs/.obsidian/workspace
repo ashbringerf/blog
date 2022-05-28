@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "contents/Computer_Vision/Camera_Model.md",
+            "file": "contents/Deep_Learning/norms.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contents/Computer_Vision/Camera_Model.md",
+                "file": "contents/Deep_Learning/norms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "00ffbe1ba6989f78",
   "lastOpenFiles": [
+    "contents/Deep_Learning/norms.md",
+    "contents/Digital_Image_Processing/Color_Space.md",
+    "contents/Computer_Vision/Calibration.md",
+    "contents/Computer_Science/Operation_System/比较器.md",
     "contents/Computer_Vision/Camera_Model.md",
     "contents/interesting/AppleProRaw.md",
     "contents/Digital_Image_Processing/filtering/bilateral_filter.md",
     "contents/Digital_Image_Processing/filtering/filtering.md",
-    "contents/Deep_Learning/norms.md",
     "contents/Deep_Learning/loss.md",
-    "link/cheatsheets.md",
-    "CV.md",
-    "index.md",
-    "contents/Physic_Subjects/Light.md"
+    "link/cheatsheets.md"
   ]
 }
