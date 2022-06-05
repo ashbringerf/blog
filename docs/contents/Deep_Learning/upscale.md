@@ -1,0 +1,3 @@
+- upscale: w,h,c --> w\*r, h\*r, c
+- deconv: [ h1=w2\*w1 ] $\dots$ [ h2=w1\*h2 ] --> w1\*h2
+- pixelShuffle: w,h,1 --> w,h,r\*r -->w\*r, h\*r, 1

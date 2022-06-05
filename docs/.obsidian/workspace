@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "contents/Digital_Image_Processing/filtering/bilateral_filter.md",
+            "file": "contents/Digital_Image_Processing/filtering/BM3D.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fft",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contents/Digital_Image_Processing/filtering/bilateral_filter.md",
+                "file": "contents/Digital_Image_Processing/filtering/BM3D.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "00ffbe1ba6989f78",
   "lastOpenFiles": [
-    "contents/Digital_Image_Processing/filtering/bilateral_filter.md",
+    "contents/Digital_Image_Processing/filtering/BM3D.md",
+    "contents/Digital_Image_Processing/filtering/wiener_filter.md",
+    "images/Pasted image 20220519231509.png",
+    "images/Pasted image 20220605221229.png",
+    "images/Pasted image 20220519231548.png",
     "contents/Digital_Image_Processing/filtering/filtering.md",
-    "contents/Digital_Signal_Processing/Transforms.md",
-    "contents/Computer_Science/Operation_System/比较器.md",
-    "contents/杂学/疫苗/疫苗的种类.md",
-    "contents/杂学/cooking/简单概念.md",
-    "contents/Computer_Vision/Descriptors.md",
-    "obsidian_syntax.md",
-    "notes/daliy_notes/2022_May.md",
-    "index.md"
+    "contents/Digital_Image_Processing/filtering/bilateral_filter.md",
+    "contents/Computer_Science/Languages/Cpp/可变入参.md",
+    "contents/Digital_Image_Processing/Color_Space.md",
+    "contents/Deep_Learning/upscale.md"
   ]
 }
